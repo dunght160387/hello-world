@@ -8,3 +8,5 @@ Readme was edited 2nd!!!
 changed in master!!!
 
 new line: Merge pull request #5 from dunght160387/master
+
+added new line: Merge pull request #6 from dunght160387/master
